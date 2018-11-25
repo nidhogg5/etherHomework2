@@ -1,0 +1,23 @@
+{
+  "name": "etherhomework2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deploy.js",
+  "dependencies": {
+    "web3": "^1.0.0-beta.36"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhogg5/etherHomework2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidhogg5/etherHomework2/issues"
+  },
+  "homepage": "https://github.com/nidhogg5/etherHomework2#readme"
+}
